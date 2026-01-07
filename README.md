@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Atharva Chaudhary</h1>
+<h1 align="center">Hi, I'm Atharva Chaudhary</h1>
 <h3 align="center">A curious developer from India</h3>
 
-- 🌱 I’m currently learning **AngularJS**
+- 🌱 I’m currently learning **Linux**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
