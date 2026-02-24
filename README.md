@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Atharva Chaudhary</h1>
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently practicing **Frontend Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
